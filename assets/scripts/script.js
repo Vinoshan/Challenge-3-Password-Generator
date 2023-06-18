@@ -26,14 +26,12 @@ function generatePassword() {
     return "";
   }
 
-  //TODO: Create Prompt
   // Prompt for Character Types
   var includeLowercase = confirm("Include lowercase characters?");
   var includeUppercase = confirm("Include uppercase characters?");
   var includeNumeric = confirm("Include numeric characters?");
   var includeSpecial = confirm("Include special characters?");
 
-  //TODO: Validate User's Selection
   // Validate if one of these are Selected
   if (
     !includeLowercase &&
@@ -47,7 +45,6 @@ function generatePassword() {
     return "";
   }
 
-  //TODO: Make Variables for list of Characters
   // Define Variables for Characters
   var lowercaseChars = "abcdefghijklmnopqrstuvwxyz";
   var uppercaseChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
