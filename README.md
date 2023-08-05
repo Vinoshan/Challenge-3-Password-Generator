@@ -36,7 +36,7 @@ N/A
 ## Usage
 
 ![Screenshot of Website](./assets/imgs/screenshot.jpeg?raw=true "Screenshot")
-[Link to Application](https://vinoshan.github.io/Challenge-3-Password-Generator/)
+[Link to Application](https://vinoshan.github.io/Password-Generator/)
 
 ## Contributing
 
