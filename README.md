@@ -1,4 +1,4 @@
-Password-Generator
+# Password-Generator
 
 Password Generator based on 8-128 characters
 
